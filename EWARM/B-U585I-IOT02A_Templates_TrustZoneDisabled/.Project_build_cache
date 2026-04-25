@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>C:\Users\Kaled\Downloads\stm32cubeu5-v1-8-0\STM32Cube_FW_U5_V1.8.0\Projects\B-U585I-IOT02A\Templates\TrustZoneDisabled\EWARM\B-U585I-IOT02A\Exe\Project.out</Path>
+            <Output>
+                <Path>C:\Users\Kaled\Downloads\stm32cubeu5-v1-8-0\STM32Cube_FW_U5_V1.8.0\Projects\B-U585I-IOT02A\Templates\TrustZoneDisabled\EWARM\B-U585I-IOT02A\List\Project.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>

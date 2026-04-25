@@ -1,0 +1,40 @@
+# Ignore build outputs and IDE-generated files for STM32 projects
+
+# Build output folders
+Exe/
+Obj/
+List/
+BrowseInfo/
+
+# EWARM temp/project output
+*.ewd
+*.ewt
+*.eww
+
+# MDK/ARM
+*.uvprojx
+*.uvoptx
+
+# STM32CubeIDE / Eclipse
+.project
+.cproject
+.settings/
+.build/
+
+# Binary and object files
+*.o
+*.a
+*.elf
+*.axf
+*.map
+*.hex
+*.bin
+*.lst
+*.d
+
+# Misc
+.vs/
+.vscode/
+Thumbs.db
+.DS_Store
+*.swp
